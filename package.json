@@ -1,6 +1,6 @@
 {
   "name": "@murutech/techver-node-share",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "public project build resources",
   "main": "index.js",
   "types": "index.d.ts",
