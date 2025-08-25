@@ -1,0 +1,22 @@
+{
+  "name": "@murutech/techver-node-share",
+  "version": "1.0.0",
+  "description": "public project build resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murugesantechver/techver-node-share.git"
+  },
+  "keywords": [
+    "techver"
+  ],
+  "author": "techver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murugesantechver/techver-node-share/issues"
+  },
+  "homepage": "https://github.com/murugesantechver/techver-node-share#readme"
+}
